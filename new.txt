@@ -1,0 +1,3 @@
+new line in new.txt
+second line in new.txt
+third line in new.txt
